@@ -1,6 +1,0 @@
-Club HEX Colors:
-yellows: #e5a53b #fad44b
-reds: #c31e2c #d05524
-#d05524
-
-
